@@ -1,6 +1,8 @@
 # Sample codes of training stable diffusion on stivo
 GPU storage: ~ 13 GB.  
 Task: Filling the circle under instruction.  
+Training hours: ~ 1 - 2 hours.  
+Storage: 50 GB more space preferred.  
 
 ## create conda environment
 conda create -n train_sd python=3.9  
